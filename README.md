@@ -1,3 +1,3 @@
 # XBMFlightBuild
 
-This repository has the executable file for the game and its dependencies. The game is incomplete but can still fun to play. Plane speed increases with time.
+This repository has the executable file for the game and its dependencies. The game is incomplete but can still be fun to play. The plane speed increases with time.
